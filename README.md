@@ -23,7 +23,6 @@ A full-featured job portal built using the MERN stack (MongoDB, Express.js, Reac
 - MongoDB for database
 - JWT for authentication
 - Cloudinary for file uploads
-- Nodemailer for email notifications
 
 ## Setup Instructions
 
@@ -74,7 +73,3 @@ A full-featured job portal built using the MERN stack (MongoDB, Express.js, Reac
 ## Access the Application
 - Frontend: http://localhost:5173
 - Backend API: http://localhost:5000/api/v1
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.

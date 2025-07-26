@@ -69,7 +69,3 @@ A full-featured job portal built using the MERN stack (MongoDB, Express.js, Reac
    ```
    npm run dev
    ```
-
-## Access the Application
-- Frontend: http://localhost:5173
-- Backend API: http://localhost:5000/api/v1

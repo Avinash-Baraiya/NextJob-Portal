@@ -46,3 +46,6 @@ Thumbs.db
 
 # Extra files
 /backend/extra/*
+flow.md
+IMPLEMENTATION_GUIDE.md
+IMPLEMENTATION_GUIDE_copy.md
